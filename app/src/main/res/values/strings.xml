@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">任务风暴</string>
+    <string name="action_settings">Settings</string>
+    <string name="other">添加任务</string>
+    <string name="detail">任务详情</string>
+    <string name="statistic">任务统计</string>
+    <string name="outdate">已过期任务</string>
+    <string name="finish">已完成任务</string>
+</resources>
